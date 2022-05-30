@@ -1,0 +1,102 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch BagianB",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.BagianB",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Tugas",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.Tugas",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch KegiatanPraktikumB",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.KegiatanPraktikumB",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch KegiatanPraktikumA",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.KegiatanPraktikumA",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Abstraction",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.Abstraction",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Encapsulation",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.Encapsulation",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Person",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.Person",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch tugas2",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.tugas2",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main$A5",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.Main$A5",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "belajar.praktikum.Main",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "belajar.operator.Main",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "com.operator.Main",
+      "projectName": "template"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "com.tutorial.Main",
+      "projectName": "06 - Latihan_92c85873"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "com.tutorial.Main",
+      "projectName": "template"
+    }
+  ]
+}
